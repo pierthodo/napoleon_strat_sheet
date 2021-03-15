@@ -59,7 +59,6 @@ for dic_strat in options_strat:
                                          output=path_time)
             except:
                 print("Failed with timeframe",timeframe)
-            pdfkit.from_file(path_time, path_time[:-5] + ".pdf")
 
             break
         break
