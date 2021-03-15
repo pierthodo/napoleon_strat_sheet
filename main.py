@@ -60,7 +60,3 @@ for dic_strat in options_strat:
             except:
                 print("Failed with timeframe",timeframe)
 
-            break
-        break
-    break
-
