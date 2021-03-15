@@ -40,7 +40,7 @@ options_crypto = [{'label': 'BTC-USD', 'value': 'BTC-USD'},
                  ]
 path="./strat_sheet/"
 for dic_strat in options_strat:
-    path_strat = path+dic_strat["label"]
+    path_strat = path+dic_strat["value"]
     if not os.path.exists(path_strat):
         os.makedirs(path_strat)
     for bench in ["ETH-USD", "BTC-USD"]:
