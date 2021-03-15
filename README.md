@@ -7,7 +7,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX medium term TF ETH LO
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -16,7 +18,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX BTC Ultra flex AR hourly
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -25,7 +29,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX ETH Ultra flex AR hourly
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -34,7 +40,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX alloc ETH/BTC/USD AR hourly
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -43,7 +51,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX alloc ETH/BTC/USD LO hourly
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -52,7 +62,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX alloc ETH/BTC/USD AR daily
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -61,7 +73,9 @@
   ## Benchmark Ethereum 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/ETH-USD/1040-days.html)
 </details>
+
 # NapoX alloc ETH/BTC/USD LO daily
+
 <details>
   <summary>Click to expand!</summary>
   
