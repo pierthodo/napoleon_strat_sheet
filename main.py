@@ -57,9 +57,10 @@ for dic_strat in options_strat:
             try:
                 report = qs.reports.html(strat["Price"].squeeze()[-timeframe:], benchmark["Price"].squeeze()[-timeframe:],
                                          output=path_time)
-                pdfkit.from_file(path_time, path_time[:-5]+".pdf")
             except:
                 print("Failed with timeframe",timeframe)
+            pdfkit.from_file(path_time, path_time[:-5] + ".pdf")
+
             break
         break
     break
