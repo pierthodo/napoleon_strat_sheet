@@ -5,7 +5,6 @@ import quantstats as qs
 import matplotlib.font_manager
 import pandas_datareader as pdr
 import os
-import pdfkit
 
 # extend pandas functionality with metrics, etc.
 qs.extend_pandas()
