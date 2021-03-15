@@ -1,0 +1,8 @@
+six
+pandas
+numpy
+plotly==4.9.0
+gcsfs
+quantstats==0.0.25
+datetime
+pandas_datareader
