@@ -44,18 +44,22 @@ for dic_strat in options_strat:
     if not os.path.exists(path_strat):
         os.makedirs(path_strat)
     for bench in ["ETH-USD", "BTC-USD"]:
-        path_bench = path_strat + "/" + bench
-        if not os.path.exists(path_bench):
-            os.makedirs(path_bench)
-        strat = get_napbots(dic_strat["value"])
-        benchmark = get_crypto(bench)
-        for timeframe in [30,90,180,360,720,1040]:
-            print("Done")
+        try:
+            path_bench = path_strat + "/" + bench
+            if not os.path.exists(path_bench):
+                os.makedirs(path_bench)
+            strat = get_napbots(dic_strat["value"])
+            benchmark = get_crypto(bench)
+            for timeframe in [30,90,180,360,720,1040]:
+                print("Done")
 
-            path_time = path_bench+"/"+str(timeframe)+ "-days.html"
-            try:
-                report = qs.reports.html(strat["Price"].squeeze()[-timeframe:], benchmark["Price"].squeeze()[-timeframe:],
-                                         output=path_time)
-            except:
-                print("Failed with timeframe",timeframe)
+                path_time = path_bench+"/"+str(timeframe)+ "-days.html"
+                try:
+                    report = qs.reports.html(strat["Price"].squeeze()[-timeframe:], benchmark["Price"].squeeze()[-timeframe:],
+                                             output=path_time)
+                except:
+                    print("Failed with timeframe",timeframe)
+        except:
+            print("Error with strat",bench,dic_strat["value"])
+            continue
 
