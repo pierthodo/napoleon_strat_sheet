@@ -1,3 +1,5 @@
+This repository automatically creates sheets comparing the performance of napbots algorithm with the performance of bitcoin or ether. It updates every day at 1am from the data on napbots. 
+
 # NapoX medium term TF BTC LO
 <details>
   <summary>Click to expand!</summary>
