@@ -58,4 +58,7 @@ for dic_strat in options_strat:
                                          output=path_time)
             except:
                 print("Failed with timeframe",timeframe)
+            break
+        break
+    break
 
