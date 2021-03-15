@@ -1,6 +1,6 @@
 # NapoX medium term TF BTC LO
 <details>
-  <summary></summary>
+  <summary>Click to expand!</summary>
   
   ## Benchmark Bitcoin 
 [30 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/30-days.html)   [60 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/60-days.html)  [180 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/180-days.html)  [360 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/360-days.html)  [720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/720-days.html)  [1040 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/NapoX%20medium%20term%20TF%20BTC%20LO/BTC-USD/1040-days.html)
