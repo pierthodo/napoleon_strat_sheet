@@ -5,6 +5,7 @@ import quantstats as qs
 import matplotlib.font_manager
 import pandas_datareader as pdr
 import os
+import pdfkit
 
 # extend pandas functionality with metrics, etc.
 qs.extend_pandas()
@@ -56,6 +57,7 @@ for dic_strat in options_strat:
             try:
                 report = qs.reports.html(strat["Price"].squeeze()[-timeframe:], benchmark["Price"].squeeze()[-timeframe:],
                                          output=path_time)
+                pdfkit.from_file(path_time, path_time[:-5]+".pdf")
             except:
                 print("Failed with timeframe",timeframe)
             break
