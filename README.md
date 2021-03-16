@@ -1,4 +1,8 @@
-This repository automatically creates sheets comparing the performance of napbots algorithm with the performance of bitcoin or ether. It updates every day at 1am from the data on napbots. Some of my favourite (benchmarked with btc): [BTC LO 720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/STRAT_BTC_USD_D_3/BTC-USD/720-days.html) ------------------ [BTC-ETH-USD LO daily 720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/STRAT_BTC_ETH_USD_LO_D_1/BTC-USD/720-days.html)
+This repository automatically creates sheets comparing the performance of napbots algorithm with the performance of bitcoin or ether. It updates every day at 1am from the data on napbots. Some of my favourite (benchmarked with btc):
+
+-[BTC LO 720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/STRAT_BTC_USD_D_3/BTC-USD/720-days.html)
+
+-[BTC-ETH-USD LO daily 720 days](https://htmlpreview.github.io/?https://github.com/pierthodo/napoleon_strat_sheet/blob/master/strat_sheet/STRAT_BTC_ETH_USD_LO_D_1/BTC-USD/720-days.html)
 
 # NapoX medium term TF BTC LO
 <details>
